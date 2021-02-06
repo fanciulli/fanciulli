@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Software Engineer with 17 years of experience in development.
+
+I'm a contributor developer of the Open Source project [Volumio](https://github.com/volumio/Volumio2), an audiophile music player for micro-computers. I've created integration services for enabling streaming services like Tidal and Qobuz into the Volumio ecosystem. Don't you know the project already? Go check it out! 
+
+
 <!--
 **fanciulli/fanciulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
