@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a Cloud Engineer with 20 years of experience in Software Development, who also covered the role of Project Manager for several years.
+Cloud Engineer with over 20 years of experience in designing and developing complex software solutions, transitioning from senior technical roles to project leadership. My core expertise lies in building robust server-side architectures (APIs, processing components) primarily using Node.js., Typescript, Scala and Python.
+I have a proven track record of delivering high-impact solutions, ranging from consumer-facing platforms with thousands of active users to mission-critical systems for space environments (ESA). 
 
-My main focus is the development of server side solutions (APIs, processing components) in several languages, mainly Node.js, Python and Scala. Some of these have reached wide audience (thousands of active users) while some served specific, critical use cases like those in the Space environments.
-
-I have also been an active contributor to the Open Source project Volumio, an audiophile music player for micro-computers, developing software integrations for streaming services like Tidal and Qobuz.
+As an active Open Source contributor, I have developed key integrations for the Volumio audiophile music player, specifically for high-res streaming services like Tidal and Qobuz.  
